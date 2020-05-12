@@ -1,0 +1,24 @@
+div {
+  text-align: center;
+}
+
+nav url {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 25px;
+}
+
+body {
+	font-family: 'Handlee', cursive;
+  background-color: #DFE7ED;
+}
+
+.body{
+  background-color: #CBCBDB;
+}
